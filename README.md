@@ -20,7 +20,8 @@
     - EJS
     - RESTAPIs
   - Databases
-    - MySQL
+    - Postgresql
+    - MSSQL
     - MongoDB
     - Mongoose
   - Authentication
@@ -29,10 +30,6 @@
   - React Hooks
   - Web Design
   - Deployment with GitHub Pages, Render and MongoDB Atlas
-  - Web3 Development on the Internet Computer
-    - Blockchain technology
-    - Token contract development
-    - NFT minting, buying and selling logic 
 <!---
 KanjTansu/KanjTansu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
