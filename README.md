@@ -7,29 +7,24 @@
   - Front-End Web Development
     -  HTML 5
     -  CSS 3
-    -  Bootstrap 5
     -  Javascript ES6
-    -  DOM Manipulation
-    -  jQuery
-  - Bash Command Line
-  - Git, GitHub and Version Control
+    -  NextJs
+    -  Ant Design library
   - Backend Web Development
     - Node.js
     - NPM
     - Express.js
-    - EJS
     - RESTAPIs
+    - NestJs
   - Databases
     - Postgresql
     - MSSQL
     - MongoDB
     - Mongoose
-  - Authentication
-  - Firebase
-  - React.js
-  - React Hooks
+  - Git, GitHub and Version Control
   - Web Design
-  - Deployment with GitHub Pages, Render and MongoDB Atlas
+  - Working with docker image.
+  - Deployment with GitHub Pages, Render, DigitalOcean Cloud and MSAzure.
 <!---
 KanjTansu/KanjTansu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
